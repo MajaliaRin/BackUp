@@ -25,7 +25,10 @@ a.active {
 
 h1,
 h2,
-h3,
+h3{
+ font-family: "Montserrat", Arial, serif;
+ color: red;
+},
 h4,
 h5,
 h6 {
@@ -42,6 +45,7 @@ hr.star-primary {
   max-width: 250px;
   margin: 25px auto 30px;
 }
+
 
 
 
